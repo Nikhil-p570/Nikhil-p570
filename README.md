@@ -55,16 +55,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
- ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-p570&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Nikhil's GitHub Stats" />
-  <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nikhil-p570&theme=dark&hide_border=false" alt="Subham's GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-p570&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
----
+ 
 
 ### 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Nikhil-p570&theme=radical&no-frame=false&no-bg=false&margin-w=4)
